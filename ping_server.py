@@ -7,6 +7,7 @@ import requests
 
 DEFAULT_PING_INTERVAL = 240
 MAX_FAILURES = 2
+APP_URL="https://conservation-bianca-crazybotsjkjs-024b3a8b.koyeb.app"
 
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
