@@ -1,8 +1,3 @@
-shivanamdev198@gmail.com
-
-250 _
-
-Password - autofilterv1
 
 
 <div align="center">
